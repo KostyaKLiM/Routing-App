@@ -1,0 +1,22 @@
+h1 {
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+}
+.accordion-title {
+  display: flex;
+  justify-content: center;
+  font-size: 32px;
+  background: blanchedalmond;
+  border-radius: 15px;
+  padding: 10px 20px;
+  max-width: 300px;
+  margin: 0 auto;
+  cursor: pointer;
+}
+.accordion-desc {
+  max-width: 500px;
+  margin: 0 auto;
+  padding-top: 30px;
+  font-size: 22px;
+}

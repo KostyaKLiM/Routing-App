@@ -1,0 +1,36 @@
+h1{
+	display: flex;
+	justify-content: center;
+}
+div{
+	padding: 30px 40px;
+}
+.tabs{
+	display: flex;
+	justify-content: center;
+	gap: 20px;
+	font-size: 32px;
+	cursor: pointer;
+}
+.disc{
+	display: flex;
+	justify-content: center;
+	font-size: 30px;
+	color: rgb(141, 52, 52);
+}
+.tab-active{
+	color: orangered;
+}
+button{
+	display: flex;
+	margin-inline: auto;
+	background: blanchedalmond;
+	border-radius: 15px;
+	padding: 10px 20px;
+	cursor: pointer;
+}
+input{
+	display: flex;
+	margin-inline: auto;
+	margin-top: 20px;
+}

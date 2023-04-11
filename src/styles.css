@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+p{
+	font-size: 30px;
+	text-transform: uppercase;
+	display: flex;
+	justify-content: center;
+ }
+a{
+	font-family:'Courier New', Courier, monospace ;
+	font-weight: 700;
+	color: rgb(37, 54, 49);
+	margin-inline: auto;
+	border-radius: 15px;
+	background: blanchedalmond;
+	padding: 10px 15px;
+}

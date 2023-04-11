@@ -1,0 +1,11 @@
+input{
+	padding: 20px;
+	max-width: 300px;
+	width: 100%;
+	display: flex;
+	margin:30px auto;
+	border-radius: 40px;
+	border: none;
+	outline: none;
+	background: blanchedalmond;
+}
